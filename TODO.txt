@@ -1,0 +1,4 @@
+- Show 'typing' when users type a message in chat
+- Show list of users in rooms page with online status
+- Create a 1-1 chat option
+- Private rooms with invite/add option
