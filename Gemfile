@@ -31,6 +31,7 @@ gem 'devise'
 gem 'bootstrap'
 gem 'jquery-rails'
 gem 'simple_form'
+gem 'redis'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
